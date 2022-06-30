@@ -1,0 +1,497 @@
+#confirm-address {
+    border: 1px solid #ccc;
+    padding: 11px 25px;
+    width: 80%;
+    margin: 0 auto;
+}
+button#getaddress_button {
+    display: block;
+    color: #7ab048;
+    border-color: #7ab048;
+    height: 54px;
+    margin-top: 0px;
+    padding-top: 8px;
+    font-size: 16px;
+    background-color: white;
+    line-height: 40px;
+    display: block;
+    width: 100%;
+    padding: 6px 12px;
+    border-radius: 4px;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+input#getaddress_input {
+    height: 100px;
+    text-align: center;
+    font-size: 26px;
+    display: block;
+    width: 100%;
+    padding: 6px 12px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    margin-top: 2px;
+    margin-bottom: 20px;
+}
+select#getaddress_dropdown {
+    margin-top: 2px;
+    border-color: #d8dfe7;
+    color: #444;
+    height: 100px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    padding: 6px 12px;
+    width: 100%;
+    margin: 20px 0;
+}
+
+.car-finance-eligibility h3 {
+	font-family: 'Comfortaa', cursive;
+	font-weight: 700;
+	color: rgb(9, 21, 70);
+	font-size: 41px;
+	line-height: 38px
+}
+
+.car-finance-eligibility p {
+	font-family: Palanquin, sans-serif;
+	font-size: 18px;
+	line-height: 34px;
+	color: #2f697d;
+}
+
+.progress-container {
+	height: 25px;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.progress-step-container {
+	max-width: 500px;
+	width: 90%;
+	top: 10px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.progress-line-container {
+	background-color: #D8DEE5;
+	height: 2px;
+	width: 100%;
+}
+
+.progress-line {
+	background: #05cab6;
+	height: 2px;
+	width: 0;
+	-moz-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+
+.progress-bullet-container {
+	background: transparent;
+	width: 0;
+	height: 0;
+	overflow: visible;
+	position: relative;
+	display: block;
+}
+
+.progress-bullet.active {
+	background-color: #05CAB6;
+}
+
+.progress-bullet {
+	width: 22px;
+	height: 22px;
+	background: #D8DEE5;
+	-moz-border-radius: 22px;
+	-webkit-border-radius: 22px;
+	border-radius: 22px;
+	-moz-transform: translate(-12px, -12px);
+	-ms-transform: translate(-12px, -12px);
+	-webkit-transform: translate(-12px, -12px);
+	transform: translate(-10px, -10px);
+	-moz-transition: all 0.4s linear;
+	-o-transition: all 0.4s linear;
+	-webkit-transition: all 0.4s linear;
+	transition: all 0.4s linear;
+}
+
+.step-form-content h3 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	font-size: 48px;
+	line-height: 63px;
+	margin: 10px 0px
+}
+
+.step-form-content p {
+	font-size: 20px;
+	font-family: Palanquin, sans-serif;
+	color: #444a51;
+}
+
+.button-list-holder {
+	font-family: 'Lato', sans-serif;
+	color: #333;
+	height: 100px;
+	line-height: 100px;
+	border: 1px solid #DCE1E6;
+	text-align: center;
+	font-size: 24px;
+	border-radius: 5px;
+	cursor: pointer;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+
+.button-list {
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-bottom: 10px
+}
+
+.form-holder {
+	padding-left: 148px;
+	padding-right: 148px;
+}
+
+.btn-default {
+	background-color: #00bce4;
+	color: white;
+	font-size: 16px;
+	height: 54px;
+	padding-top: 15px;
+	border: none;
+	margin-top: 10px;
+	box-shadow: 0 8px 15px rgba(0, 0, 0, .1);
+	padding-bottom: 6px;
+	border-radius: 20px;
+	transition: 0.5s ease-in-out;
+}
+
+.btn-default:hover,
+.btn-default:focus {
+	outline: none;
+}
+
+.btn-default:hover {
+	background: #04a4c5;
+	color: white
+}
+
+.representative-example p {
+	color: #2f697d;
+	font-size: 14px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	line-height: 1.9em;
+	margin-top: 55px;
+}
+
+.center-block {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	float: none;
+}
+
+.custom-inputs {
+	height: 100px;
+	text-align: center;
+	font-size: 26px;
+}
+
+.form-control:focus {
+	border-color: #66afe9;
+	outline: 0;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(102, 175, 233, .6);
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(102, 175, 233, .6);
+}
+
+.step-7 input::placeholder,
+.employment-months::placeholder,
+.employment-years::placeholder,
+.custom-placeholder::placeholder {
+	font-weight: bold;
+	color: #a39c99;
+	font-family: 'Lato', sans-serif;
+}
+
+.step-7 .form-label,
+.almost-done label {
+	text-align: center;
+	width: 100%;
+	font-family: 'Lato', sans-serif;
+	font-size: 24px;
+	color: #000000;
+}
+
+.step-7 label {
+	display: inline-block;
+	max-width: 100%;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+
+.net-monthly {
+	color: #00bce4;
+	font-weight: bold;
+}
+
+.amount-input {
+	text-align: left;
+	padding-left: 75px;
+}
+
+.pound-icon {
+	position: absolute;
+	top: 31px;
+	left: 60px;
+	font-size: 30px;
+	color: #00bce4;
+	font-weight: 400;
+}
+
+.no-padding {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+.col-xs-6 {
+	width: 50%;
+	float: left
+}
+
+.no-radius-right {
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+.no-radius-left {
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+}
+
+.label-button {
+	border-left: 0;
+	height: 100px;
+	text-align: center;
+	font-size: 26px;
+	line-height: 85px;
+	font-weight: 500;
+	color: #000
+}
+
+.btn-postcode {
+	color: #7ab048;
+	border-color: #7ab048;
+	height: 54px;
+	margin-top: 0px;
+	padding-top: 8px;
+	width: 55%;
+	font-size: 16px;
+	background-color: white;
+	line-height: 40px;
+}
+
+.btn-postcode:hover,
+.btn-postcode:focus {
+	outline: none;
+	color: white;
+	background-color: #7ab048;
+}
+
+.city-select {
+	height: 100px!important;
+	font-size: 20px;
+	font-weight: bold
+}
+
+.custom-address label {
+	width: 100%;
+	text-align: center;
+	white-space: nowrap;
+	font-size: 13px;
+	color: #1c5399;
+	font-weight: bold;
+	font-family: 'Lato', sans-serif;
+}
+
+.label-sh-marketing input {
+	display: none;
+}
+
+.label-sh-marketing input+span {
+	display: block;
+	width: 38px;
+	height: 18px;
+	left: 1px;
+	top: 1px;
+	background: #f2f7fd;
+	border-radius: 15px;
+	position: relative;
+}
+
+.label-sh-marketing input:not(:checked)+span:before {
+	content: '\2716';
+	right: 5px;
+	color: #c21807;
+}
+
+.label-sh-marketing input+span:before {
+	position: absolute;
+	vertical-align: middle;
+	line-height: 18px;
+	font-size: 14px;
+	transition: opacity ease-in-out 0.2s;
+	opacity: 1;
+}
+
+.label-sh-marketing input+span:after {
+	content: '';
+	height: 18px;
+	width: 18px;
+	background: #7ab047;
+	border-radius: 50%;
+	position: absolute;
+	top: 0px;
+	-webkit-transition: all ease-in-out 0.2s 0s;
+	-moz-transition: all ease-in-out 0.2s 0s;
+	transition: all ease-in-out 0.2s 0s;
+	left: 0;
+}
+
+.label-sh-marketing {
+	position: relative;
+	display: inline-block;
+	width: 40px;
+	height: 20px;
+	background: #E5EAF0;
+	border-radius: 15px;
+	cursor: pointer;
+	margin-top: 15px;
+}
+
+.label-sh-marketing {
+	margin-top: 0px;
+	position: absolute;
+	right: 0;
+	top: 50%;
+	-webkit-transform: translate3d(0, -50%, 0);
+	-moz-transform: translate3d(0, -50%, 0);
+	transform: translate3d(0, -50%, 0);
+}
+
+.label-sh-marketing input:checked+span:before {
+	left: 5px;
+	content: '\2713 ';
+	color: #7ab047;
+}
+
+.label-sh-marketing input+span:before {
+	position: absolute;
+	vertical-align: middle;
+	line-height: 18px;
+	font-size: 14px;
+	transition: opacity ease-in-out 0.2s;
+	opacity: 1;
+}
+
+.label-sh-marketing input:checked+span:after {
+	left: 100%;
+	background: #7ab047;
+	-webkit-transform: translate3d(-100%, 0, 0);
+	-moz-transform: translate3d(-100%, 0, 0);
+	transform: translate3d(-100%, 0, 0);
+}
+
+.aggrement-text {
+	font-size: 15px;
+	font-family: 'Lato', sans-serif;
+}
+
+.sh-marketing-text {
+	font-size: 15px;
+	font-family: 'Lato', sans-serif;
+}
+
+.add-class-active {
+	background: #05CAB6;
+	color: #ffffff;
+}
+
+
+
+@media (max-width: 991px) and (min-width: 768px)
+{
+.car-finance-eligibility h3  {
+    font-size: 33px!important;
+}
+}
+@media(max-width: 1200px)
+{
+	.form-holder {
+    padding-left: 74px;
+    padding-right: 74px;
+}
+}
+@media(max-width: 963px)
+{
+	.form-holder {
+    padding-left: 37px!important;
+    padding-right: 37px!important;
+}
+}
+@media(max-width: 890px)
+{
+	.form-holder {
+    padding-left: 30px!important;
+    padding-right: 30px!important;
+}
+}
+@media(max-width: 710px)
+{
+	.car-finance-eligibility h3  {
+    font-size: 30px!important;
+    line-height: 40px!important;
+}
+}
+@media(max-width: 1100px)
+{
+	.car-finance-eligibility p {
+   
+    line-height: 26px!important;
+
+}
+}
+@media(max-width: 340px)
+{
+	.form-holder {
+    padding-left: 10px!important;
+    padding-right: 10px!important;
+}
+}
+@media(max-width: 295px){
+	.button-list-holder{  
+	font-size: 19px!important;
+	height: 88px!important;
+    line-height: 88px!important;
+}
+}
